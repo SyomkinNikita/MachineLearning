@@ -7,5 +7,5 @@
 Лабораторная работа №5 [ссылка](https://github.com/SyomkinNikita/MachineLearning/blob/master/Lab5TMO.ipynb)
 Лабораторная работа №6 [ссылка](https://github.com/SyomkinNikita/MachineLearning/blob/master/Lab6TMO.ipynb)
 
-### Курсовой проект
+## Курсовой проект
 Курсовая [ссылка](https://github.com/SyomkinNikita/MachineLearning/blob/master/KR.ipynb)
